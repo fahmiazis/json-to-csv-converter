@@ -155,3 +155,6 @@ Yes — download again and repeat the steps.
 ---
 
 *json-to-csv-converter · Updated 2026-10-16 · Shared under the MIT License*
+
+
+*Last updated: 2026-10-16*
